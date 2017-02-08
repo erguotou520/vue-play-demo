@@ -1,0 +1,16 @@
+{
+  "name": "vue-play-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "play": "vue-play start",
+    "play:build": "vue-play build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue-play": "^2.2.0",
+    "vue-play-cli": "^1.0.4"
+  }
+}
